@@ -3,7 +3,7 @@
 > i hate javascript >:(
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=USERNAME&fontSize=50&fontAlignY=35&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Soyamilk-27&fontSize=50&fontAlignY=35&animation=twinkling"/>
 </p>
 
 <p align="center">

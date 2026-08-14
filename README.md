@@ -1,16 +1,23 @@
-## Hi there 👋
+# hi i meow
 
-<!--
-**Soyamilk-27/Soyamilk-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [short one-line description]
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=USERNAME&fontSize=50&fontAlignY=35&animation=twinkling"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/[USERNAME]">
+    <img src="https://img.shields.io/github/followers/[USERNAME]?label=Followers&style=for-the-badge">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=[USERNAME]&style=for-the-badge&label=PROFILE+VIEWS">
+</p>
+
+---
+
+## `> whoami`
+
+```text
+Name        : soyamilk 27
+Currently   : Existing
+Learning    : JavaScript
